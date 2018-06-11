@@ -1,3 +1,3 @@
 # Ask-No-More
 
-Code comming soon.
+Code coming soon.
